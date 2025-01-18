@@ -1,7 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "KiCAD Files")(type "KiCad")(uri "C:/Users/BrettMuir/Documents/GitHub/CTS-SAT-1-DCLB-Burnwire-PCB/KiCAD Files")(options "")(descr ""))
-  (lib (name "BD2068FJ_MGE2")(type "KiCad")(uri "${CTS_DIR}/BD2068FJ_MGE2")(options "")(descr ""))
-  (lib (name "footprints")(type "KiCad")(uri "C:/Users/BrettMuir/Documents/GitHub/CTS-SAT-1-DCLB-Burnwire-PCB/KiCAD Files/RWR80S10R0FRB12/KiCADv6/footprints.pretty")(options "")(descr ""))
-  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
-)
