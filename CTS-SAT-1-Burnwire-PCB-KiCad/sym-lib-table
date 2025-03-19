@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "CTS-SAT-1-Burnwire-PCB-KiCad-rescue")(type "KiCad")(uri "${KIPRJMOD}/CTS-SAT-1-Burnwire-PCB-KiCad-rescue.kicad_sym")(options "")(descr ""))
-)
