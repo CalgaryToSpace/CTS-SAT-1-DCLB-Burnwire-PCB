@@ -1168,8 +1168,8 @@
 		(uuid 66418128-5547-4665-b87a-04004610530a)
 	)
 	(rectangle
-		(start 199.39 34.29)
-		(end 256.54 90.17)
+		(start 194.31 34.29)
+		(end 264.16 90.17)
 		(stroke
 			(width 0)
 			(type default)
@@ -1202,6 +1202,26 @@
 			(type none)
 		)
 		(uuid be869e1c-c2c5-4a57-8700-fc4126a1e96a)
+	)
+	(text "H1 and H3 - Near resistors (M2)"
+		(exclude_from_sim no)
+		(at 258.826 62.23 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6fe50fb9-fda3-4029-ba74-048ba509ad8d")
+	)
+	(text "H1 and H3 - Near connectors (M2.5)"
+		(exclude_from_sim no)
+		(at 198.628 62.23 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "98691b2a-2c92-4741-9a29-06e43c0f4eb7")
 	)
 	(text "Signal Connector\nMolex Picoblade\nTo OBC"
 		(exclude_from_sim no)
@@ -2499,7 +2519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
 			(at 207.01 41.91 0)
 			(effects
 				(font
@@ -2566,7 +2586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
 			(at 207.01 67.31 0)
 			(effects
 				(font
@@ -2839,7 +2859,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
 			(at 232.41 41.91 0)
 			(effects
 				(font
@@ -3175,7 +3195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_Pad"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
 			(at 232.41 67.31 0)
 			(effects
 				(font
