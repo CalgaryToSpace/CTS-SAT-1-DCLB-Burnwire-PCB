@@ -760,7 +760,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:SMAJ13CA"
+		(symbol "Diode:SMAJ6.5CA"
 			(pin_numbers
 				(hide yes)
 			)
@@ -779,7 +779,7 @@
 					)
 				)
 			)
-			(property "Value" "SMAJ13CA"
+			(property "Value" "SMAJ6.5CA"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -805,7 +805,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "400W bidirectional Transient Voltage Suppressor, 13.0Vr, SMA(DO-214AC)"
+			(property "Description" "400W bidirectional Transient Voltage Suppressor, 6.5Vr, SMA(DO-214AC)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -832,7 +832,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "SMAJ13CA_0_1"
+			(symbol "SMAJ6.5CA_0_1"
 				(polyline
 					(pts
 						(xy -2.54 -1.27) (xy 0 0) (xy -2.54 1.27) (xy -2.54 -1.27)
@@ -882,7 +882,7 @@
 					)
 				)
 			)
-			(symbol "SMAJ13CA_1_1"
+			(symbol "SMAJ6.5CA_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -1860,7 +1860,7 @@
 		(uuid "e6205c0b-c58d-45a3-87eb-5c2aba92e941")
 	)
 	(symbol
-		(lib_id "Diode:SMAJ13CA")
+		(lib_id "Diode:SMAJ6.5CA")
 		(at 106.68 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1869,21 +1869,19 @@
 		(dnp no)
 		(uuid "19e5427b-bccd-419c-abd9-d9396b3c078e")
 		(property "Reference" "D1"
-			(at 104.14 82.5499 90)
+			(at 104.14 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "SMAJ13CA"
-			(at 104.14 85.0899 90)
+		(property "Value" "SMAJ6.5CA"
+			(at 109.22 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
@@ -1904,7 +1902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "400W bidirectional Transient Voltage Suppressor, 13.0Vr, SMA(DO-214AC)"
+		(property "Description" "400W bidirectional Transient Voltage Suppressor, 6.5Vr, SMA(DO-214AC)"
 			(at 106.68 83.82 0)
 			(effects
 				(font
