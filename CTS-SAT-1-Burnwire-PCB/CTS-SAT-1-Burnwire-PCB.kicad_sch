@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "CTS-SAT-1 DCLB Burn Wire PCB")
-		(date "2025-03-18")
-		(rev "1")
+		(date "2025-05-08")
+		(rev "Rev 2")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic_MountingPin:Conn_01x04_MountingPin"

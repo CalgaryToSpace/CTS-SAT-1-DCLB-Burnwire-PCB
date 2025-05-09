@@ -3,7 +3,12 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "542681ee-a73f-4de7-acb2-7a71ccd2f3fb")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "CTS-SAT-1 DCLB Burn Wire PCB")
+		(date "2025-05-08")
+		(rev "Rev 2")
+	)
 	(lib_symbols
 		(symbol "00-symbol-lib:Tactile_Button"
 			(pin_names
