@@ -1450,7 +1450,7 @@
 		)
 		(uuid "a6855d82-1e0f-4cb2-a584-b37f3376c248")
 	)
-	(text "Power Connector\nMolex Picoblade\nTo EPS"
+	(text "Power Connector\nMolex Picoblade\nTo EPS (12V Channel)"
 		(exclude_from_sim no)
 		(at 131.572 151.638 0)
 		(effects
@@ -2664,7 +2664,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "RR01J36RTB (36 ohm)"
 			(at 80.01 31.7499 0)
 			(effects
 				(font
@@ -2886,7 +2886,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5a179f85-43b0-42d0-85e9-ed154c8e60a1")
 		(property "Reference" "R12"
 			(at 80.01 57.1499 0)
@@ -2897,7 +2896,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "RR01J36RTB (36 ohm)"
 			(at 80.01 59.6899 0)
 			(effects
 				(font

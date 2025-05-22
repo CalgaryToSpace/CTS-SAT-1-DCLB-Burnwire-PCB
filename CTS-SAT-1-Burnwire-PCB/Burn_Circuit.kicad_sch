@@ -1453,7 +1453,7 @@
 		)
 	)
 	(rectangle
-		(start 49.53 33.02)
+		(start 45.72 33.02)
 		(end 187.96 104.14)
 		(stroke
 			(width 0)
@@ -1463,6 +1463,26 @@
 			(type none)
 		)
 		(uuid 41ef775e-a64b-46f8-972a-31993c16ba88)
+	)
+	(text "100 ohm resistor helps prevent\ncontention if CTRL signal is \ninactive and push button is\ntriggered."
+		(exclude_from_sim no)
+		(at 62.738 80.518 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "62ce71dd-344a-49a1-a023-badd032dcc02")
+	)
+	(text "Alternative (Obsolete): AO3400A"
+		(exclude_from_sim no)
+		(at 142.748 78.232 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "67fada74-a0eb-41a8-ae6b-18ea83cafe76")
 	)
 	(text "<- Resistor is the burn wire.\n   Drawn on separate sheet because they use\n   slightly different footprints."
 		(exclude_from_sim no)
@@ -2452,7 +2472,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3400A"
+		(property "Value" "IRLML6244TRPBF"
 			(at 127 74.9299 0)
 			(effects
 				(font
@@ -2520,7 +2540,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b473bf23-aea9-4c15-b6a2-a53d3d301760")
 		(property "Reference" "S1"
